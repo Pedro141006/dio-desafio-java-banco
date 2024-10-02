@@ -1,7 +1,6 @@
 import java.util.Scanner;
-// Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque
+
 public class ContaTerminal{
-  @SuppressWarnings("resource")
   public static void main(String[] args) {
     int numero;
     String agencia;
